@@ -6,3 +6,6 @@ disocrd selfcheck, 디스코드 자가진단
 
 ## self.py
 자가진단을 실행 하는 코드
+
+## hcskr
+hcskr 모듈을 사용하였습니다.
